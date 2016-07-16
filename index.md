@@ -2,7 +2,7 @@
 title       : Sample
 subtitle    : Presentation for Slidify
 author      : J. M. Hidalgo
-job         : Research Program Manager, Data Science, U. Nebraska Omaha
+job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : tomorrow      # 
